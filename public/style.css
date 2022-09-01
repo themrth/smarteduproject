@@ -3525,11 +3525,13 @@ blockquote.default {
 	overflow: hidden;
 	position: relative;
 	margin-top: 30px;
+    padding-bottom: -10px;
 }
 .author-bio {
     display: block;
     float: left;
-    padding: 20px;
+    padding: 15px;
+    align-items: center;
     position: relative;
     width: 75%;
 }
